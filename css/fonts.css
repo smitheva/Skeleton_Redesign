@@ -1,0 +1,40 @@
+/*reset*/
+@font-face {
+    font-family: 'camboregular';
+    src: url('fonts/cambo-regular-webfont.eot');
+    src: url('fonts/cambo-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/cambo-regular-webfont.woff2') format('woff2'),
+         url('fonts/cambo-regular-webfont.woff') format('woff'),
+         url('fonts/cambo-regular-webfont.ttf') format('truetype'),
+         url('fonts/cambo-regular-webfont.svg#camboregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'peas__carrotsregular';
+    src: url('fonts/peas__carrots-webfont.eot');
+    src: url('fonts/peas__carrots-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/peas__carrots-webfont.woff2') format('woff2'),
+         url('fonts/peas__carrots-webfont.woff') format('woff'),
+         url('fonts/peas__carrots-webfont.ttf') format('truetype'),
+         url('fonts/peas__carrots-webfont.svg#peas__carrotsregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'aleoregular';
+    src: url('fonts/aleo-regular-webfont.eot');
+    src: url('fonts/aleo-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/aleo-regular-webfont.woff2') format('woff2'),
+         url('fonts/aleo-regular-webfont.woff') format('woff'),
+         url('fonts/aleo-regular-webfont.ttf') format('truetype'),
+         url('fonts/aleo-regular-webfont.svg#aleoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
